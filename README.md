@@ -6,7 +6,7 @@ The objective is to understand the dataset through statistics and
 visualizations before applying any machine learning models.
 
 ## Notebook
-``project5mlregression.ipynb``
+``Car_price_prediction_EDA.ipynb``
 
 ## Tools & Libraries Used
 - Python
